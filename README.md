@@ -1,5 +1,9 @@
 # Hi there, I'm Amrit pal singh 👋
 
+## 🧑‍💻 About Me
+I'm a passionate developer who loves creating beautiful and functional web applications. I enjoy learning new technologies and staying up-to-date with industry trends. When I'm not coding, I like to relax by going to the park or catching up on sleep.
+
+
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrit-pal-singh-18a072252)
@@ -17,9 +21,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amrit-786&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrit-786&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amrit-786&show_icons=true&theme=radical) <prev>     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amrit-786&layout=compact&theme=radical)
 
 ## 📫 How to reach me
 - Email: amritpalsingh9599123@gmai.com
@@ -37,8 +39,6 @@
 - Improve my backend skills
 - Learn more about cloud computing
 
-## 🧑‍💻 About Me
-I'm a passionate developer who loves creating beautiful and functional web applications. I enjoy learning new technologies and staying up-to-date with industry trends. When I'm not coding, I like to relax by going to the park or catching up on sleep.
 
 
 
