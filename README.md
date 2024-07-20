@@ -23,6 +23,7 @@
 
 ## 📫 How to reach me
 - Email: amritpalsingh9599123@gmai.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/amrit-pal-singh-18a072252)
 
 
 
